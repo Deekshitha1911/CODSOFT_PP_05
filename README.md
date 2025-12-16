@@ -1,6 +1,4 @@
 # CODSOFT_PP_05
-Here’s a **bel📞 **Contact Book Application** – A simple app to store and manage contacts efficiently. ✨ Users can add, view, update, and delete contact details like name and phone number. 💻 Built to practice CRUD operations and basic data handling.
-
 # 📒 Contact Book Application
 
 A simple and user-friendly Contact Book application to store and manage contact details efficiently. It allows users to add, view, update, and delete contacts with ease.
